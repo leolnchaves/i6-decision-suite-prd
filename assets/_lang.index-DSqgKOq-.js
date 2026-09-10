@@ -1,0 +1,1 @@
+import{c as e,j as t}from"./index-C_XZM-NW.js";import{t as n}from"./landing-page-CYl9dMBP.js";var r=t();function i(){let{signInHref:t}=e.useLoaderData();return(0,r.jsx)(n,{signInHref:t})}export{i as component};
