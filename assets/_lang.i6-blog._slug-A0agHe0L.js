@@ -1,0 +1,1 @@
+import{i as e,j as t}from"./index-C4y-bM0Z.js";import{t as n}from"./blog-article-page-TFgcRvM4.js";var r=t();function i(){let{article:t,lang:i,signInHref:a}=e.useLoaderData();return(0,r.jsx)(n,{article:t,lang:i,signInHref:a,variant:`blog`})}export{i as component};

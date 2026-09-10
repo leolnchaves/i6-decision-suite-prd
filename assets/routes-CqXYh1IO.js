@@ -1,1 +1,0 @@
-import{j as e,l as t}from"./index-B8eOIqvW.js";import{t as n}from"./landing-page-ciqzF-Ng.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{signInHref:e})}export{i as component};
