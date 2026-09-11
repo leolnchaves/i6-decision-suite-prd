@@ -1,1 +1,0 @@
-import{j as e,l as t}from"./index-C4y-bM0Z.js";import{t as n}from"./landing-page-GraSNg_Z.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{signInHref:e})}export{i as component};
