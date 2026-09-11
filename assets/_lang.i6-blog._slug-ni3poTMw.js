@@ -1,1 +1,0 @@
-import{i as e,j as t}from"./index-CG2P9UxJ.js";import{t as n}from"./blog-article-page-CQ3Kg5k0.js";var r=t();function i(){let{article:t,lang:i,signInHref:a}=e.useLoaderData();return(0,r.jsx)(n,{article:t,lang:i,signInHref:a,variant:`blog`})}export{i as component};
