@@ -1,1 +1,0 @@
-import{L as e}from"./preload-helper-BNKeUjY8.js";import{f as t}from"./index-Bznwy3AS.js";import{t as n}from"./landing-page-DlM0qGmG.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{signInHref:e})}export{i as component};
