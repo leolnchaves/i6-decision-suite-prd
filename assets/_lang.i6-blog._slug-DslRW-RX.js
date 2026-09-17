@@ -1,1 +1,0 @@
-import{o as e}from"./use-translation-RBBfO9y0.js";import{s as t}from"./index-CmX0oK-S.js";import{t as n}from"./blog-article-page-Cwa63kG8.js";var r=e();function i(){let{article:e,lang:i,signInHref:a}=t.useLoaderData();return(0,r.jsx)(n,{article:e,lang:i,signInHref:a,variant:`blog`})}export{i as component};
