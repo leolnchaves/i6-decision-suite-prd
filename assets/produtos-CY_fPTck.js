@@ -3,7 +3,7 @@ id: "produtos"
 title: "Which products make up the suite?"
 keywords: ["products", "suite", "portfolio", "modules", "assortment", "forecasting", "pricing", "targeting"]
 related: ["relevance", "precos", "demo"]
-links: ["Meet Relevance|/$lang/produtos/relevance"]
+links: ["Meet Relevance|/$lang/products/relevance"]
 order: 2
 ---
 The suite is made of products specialized in critical decisions: **Relevance** (recommendation), Assortment, Forecasting, Pricing, Sales Planning and Targeting.

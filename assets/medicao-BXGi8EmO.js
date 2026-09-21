@@ -3,7 +3,7 @@ id: "medicao"
 title: "Como medimos resultado?"
 keywords: ["medição", "medir", "resultado", "roi", "grupo de controle", "experimento", "incremental"]
 related: ["relevance", "casos", "demo"]
-links: ["Medição no Relevance|/$lang/produtos/relevance"]
+links: ["Medição no Relevance|/$lang/products/relevance"]
 order: 4
 ---
 Toda decisão da suíte nasce com um plano de medição: definimos um **grupo de controle**, acompanhamos a diferença observada ao longo do tempo e separamos o efeito da decisão do efeito do ambiente.

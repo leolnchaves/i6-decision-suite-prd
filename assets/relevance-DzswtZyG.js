@@ -3,7 +3,7 @@ id: "relevance"
 title: "¿Cómo funciona Relevance?"
 keywords: ["relevance", "recomendación", "recomendar", "personalización", "producto", "cómo funciona"]
 related: ["medicao", "demo", "precos"]
-links: ["Mira aquí cómo funciona Relevance|/$lang/produtos/relevance"]
+links: ["Mira aquí cómo funciona Relevance|/$lang/products/relevance"]
 order: 3
 ---
 **Relevance** combina catálogo, comportamiento y contexto para decidir qué recomendar en cada interacción.
