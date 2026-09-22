@@ -1,0 +1,1 @@
+import{o as e}from"./use-translation-pfqVtzZE.js";import{i as t}from"./index-DsoTfO4j.js";import{t as n}from"./product-placeholder-page-DbCk-p6r.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{contentId:`targeting`,name:`Targeting`,signInHref:e})}export{i as component};
