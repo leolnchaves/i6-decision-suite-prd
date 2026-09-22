@@ -1,0 +1,1 @@
+import{o as e}from"./use-translation-C-NUx_AD.js";import{a as t}from"./index-Ywc2EpyZ.js";import{t as n}from"./blog-article-page-k-BB-jUq.js";var r=e();function i(){let{article:e,lang:i,signInHref:a}=t.useLoaderData();return(0,r.jsx)(n,{article:e,lang:i,signInHref:a,variant:`media`})}export{i as component};
