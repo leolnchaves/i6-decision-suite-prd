@@ -1,0 +1,1 @@
+import{c as e}from"./policy-content-BZDT0LO3.js";import{t}from"./landing-page-jIUZ64U-.js";import{g as n}from"./index-UCf7-aGp.js";var r=e();function i(){let{signInHref:e}=n.useLoaderData();return(0,r.jsx)(t,{signInHref:e})}export{i as component};
