@@ -1,0 +1,1 @@
+import{c as e}from"./policy-content-ZmISH2oq.js";import{t}from"./blog-article-page-D41EWWNY.js";import{f as n}from"./index-Bpd47NN7.js";var r=e();function i(){let{article:e,lang:i,signInHref:a,canonicalPublicOrigin:o}=n.useLoaderData();return(0,r.jsx)(t,{article:e,lang:i,signInHref:a,variant:`blog`,canonicalPublicOrigin:o})}export{i as component};
