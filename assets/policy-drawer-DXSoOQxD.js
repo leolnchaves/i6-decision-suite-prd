@@ -457,12 +457,12 @@ format: html
 <div class="article-table-scroll"><table>
 <thead>
 <tr>
-<th>Coluna 1</th>
-<th>Coluna 2</th>
+<th><strong>Coluna 1</strong></th>
+<th><strong>Coluna 2</strong></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Valor 1</td>
+<td><strong>Valor 1</strong></td>
 <td>Valor 2</td>
 </tr>
 </tbody></table></div>
