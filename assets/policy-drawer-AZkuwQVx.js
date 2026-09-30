@@ -52,8 +52,8 @@ cover_image: "/insights-assets/fcbdfbf5d841e1ef.jpg"
 writer_name: "Leonardo"
 writer_role: "CEO"
 cta_form_title: "Pronto para aplicar isso na realidade da sua empresa?"
-cta_form_subtitle: "É só preencher o formulário abaixo."
-cta_form_text: "É só preencher o formulário abaixo."
+cta_form_subtitle: "É só preencher o formulário."
+cta_form_text: "É só preencher o formulário."
 theme: "propensao-conversao"
 theme_label: "Propensão de conversão"
 read_time: 4
@@ -63,23 +63,10 @@ is_default: true
 cta_form: true
 format: html
 ---
-<p>Uma busca específica. O retorno à mesma página. A comparação entre produtos. A consulta ao preço ou à disponibilidade. Separadamente, cada comportamento diz pouco. Em conjunto e no contexto certo, revelam uma intenção ainda não declarada — e uma oportunidade que pode desaparecer rapidamente.\\</p>
-<p><strong>Sinais de intenção</strong> são comportamentos e contextos que indicam a probabilidade de um cliente comprar, contratar ou responder a uma oferta. Para empresas de tecnologia, instituições financeiras e indústrias de bens de consumo, o desafio é interpretá-los enquanto ainda existe tempo para influenciar a decisão.</p>
+<p>Uma busca específica. O retorno à mesma página. A comparação entre produtos. A consulta ao preço ou à disponibilidade. Separadamente, cada comportamento diz pouco. Em conjunto e no contexto certo, revelam uma intenção ainda não declarada — e uma oportunidade que pode desaparecer rapidamente.</p>
 <blockquote>
-<p>Teste de destaque</p>
+<p><strong>Sinais de intenção</strong> são comportamentos e contextos que indicam a probabilidade de um cliente comprar, contratar ou responder a uma oferta. Para empresas de tecnologia, instituições financeiras e indústrias de bens de consumo, o desafio é interpretá-los enquanto ainda existe tempo para influenciar a decisão.</p>
 </blockquote>
-<div class="article-table-scroll"><table>
-<thead>
-<tr>
-<th>Coluna 1</th>
-<th>Coluna 2</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Valor 1</td>
-<td>Valor 2</td>
-</tr>
-</tbody></table></div>
 <h3>O consumidor não segue mais um funil previsível</h3>
 <p>A jornada de compra deixou de ser linear. Uma <a href="https://business.google.com/br/think/consumer-insights/empowered-customer-report/" target="_blank" rel="noopener noreferrer">pesquisa publicada pelo Google</a> em abril de 2026 mostra que Busca e YouTube estão presentes em 84% das jornadas nas quais brasileiros descobriram uma nova marca, produto ou varejista. Além disso, 86% afirmam estar abertos a experimentar novas marcas enquanto pesquisam.</p>
 <p>A IA torna esse comportamento ainda mais complexo. As consultas no Modo IA do Google são, em média, três vezes mais longas, indicando pesquisas mais contextuais. Descoberta, comparação e decisão começam a acontecer no mesmo ambiente.</p>
