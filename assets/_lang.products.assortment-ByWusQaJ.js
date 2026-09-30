@@ -1,0 +1,1 @@
+import{c as e}from"./policy-content-BZDT0LO3.js";import{l as t}from"./index-D43ARP0r.js";import{t as n}from"./product-placeholder-page-DyqHlDNl.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{contentId:`assortment`,name:`Assortment`,signInHref:e})}export{i as component};

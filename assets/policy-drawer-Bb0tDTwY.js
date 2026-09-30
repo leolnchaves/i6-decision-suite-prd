@@ -25,6 +25,7 @@ excerpt: "Seu cliente pode não dizer que pretende comprar. Mas ele já está de
 cover_image: "/insights-assets/e645720df9be61eb.jpg"
 writer_name: "Leonardo"
 writer_role: "CEO"
+writer_image_key: "/insights-assets/94b71f9ef7dbad20.webp"
 cta_form_title: "Pronto para aplicar isso na realidade da sua empresa?"
 cta_form_subtitle: "É só preencher o formulário."
 cta_form_text: "É só preencher o formulário."
