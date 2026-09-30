@@ -98,10 +98,10 @@ format: html
 <p>O <strong>i6 Signal</strong> leva recomendações explicáveis ao CRM, e-commerce, app, WhatsApp, mídia, PDV ou time comercial.</p>
 <p>Em projetos já realizados, essa abordagem gerou:</p>
 <ul>
-<li><strong>12 vezes mais conversão em campanhas;</strong></li>
-<li><strong>redução de 57% nos custos de mensageria;</strong></li>
-<li><strong>receita incremental de 40% com curadoria preditiva no varejo fashion;</strong></li>
-<li><strong>aumento de 23% no ticket médio por PDV.</strong></li>
+<li>12 vezes mais conversão em campanhas;</li>
+<li>redução de 57% nos custos de mensageria;</li>
+<li>receita incremental de 40% com curadoria preditiva no varejo fashion;</li>
+<li>aumento de 23% no ticket médio por PDV.</li>
 </ul>
 <p><a href="https://infinity6.ai/pt/solutions#territory-growth" target="_blank" rel="noopener noreferrer">Conheça a solução de Crescimento &amp; Inteligência de Consumidor da infinity6</a>.</p>
 <h3>O custo de interpretar a intenção tarde demais</h3>
