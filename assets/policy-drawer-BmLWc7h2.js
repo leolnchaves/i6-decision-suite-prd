@@ -466,7 +466,7 @@ format: html
 <td>Valor 2</td>
 </tr>
 </tbody></table></div>
-<figure class="article-figure"><img src="/insights-assets/d028024c176c7569.webp" alt="" loading="lazy"></figure>
+<figure class="article-figure"><img src="/insights-assets/d028024c176c7569.webp" alt="Descrição acessível da imagem" title="Fig. 1 — Texto da legenda exibida ao leitor" loading="lazy"><figcaption class="article-figure-caption"><span class="article-figure-label">FIG. 01</span><span>Fig. 1 — Texto da legenda exibida ao leitor</span></figcaption></figure>
 <h3>O que os sinais de intenção mudam em cada mercado</h3>
 <p>Em <strong>tecnologia</strong>, uso recorrente, consulta a preços e integrações ou queda de engajamento podem indicar propensão de upgrade, cross-sell ou churn.</p>
 <p>No <strong>mercado financeiro</strong>, simulações, movimentações, afinidades e respostas a campanhas ajudam a identificar quem pode contratar crédito, seguro, investimento ou outro produto — e qual argumento usar.</p>

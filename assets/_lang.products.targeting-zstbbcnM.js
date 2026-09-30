@@ -1,0 +1,1 @@
+import{c as e}from"./policy-content-CycVEJaq.js";import{i as t}from"./index-BZQd51j9.js";import{t as n}from"./product-placeholder-page-BW_6VNmK.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{contentId:`targeting`,name:`Targeting`,signInHref:e})}export{i as component};
