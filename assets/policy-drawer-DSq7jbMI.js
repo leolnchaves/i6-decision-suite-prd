@@ -24,7 +24,7 @@ format: html
 ---
 <p>A loja recebe visitas, as campanhas trazem gente e os produtos despertam interesse. Mesmo assim, boa parte dessas oportunidades termina sem compra.</p>
 <p>A reação costuma ser comprar mais mídia, refazer a campanha ou liberar um cupom. Mas vale investigar o que acontece entre a chegada do visitante e a decisão de comprar.</p>
-<p>É nesse intervalo que a ** IA preditiva para e-commerce ** pode ajudar. Ao analisar sinais de navegação e interação, ela estima a intenção de compra e orienta recomendações, ofertas e mensagens durante a jornada.</p>
+<p>É nesse intervalo que a <strong>IA preditiva para e-commerce</strong> pode ajudar. Ao analisar sinais de navegação e interação, ela estima a intenção de compra e orienta recomendações, ofertas e mensagens durante a jornada.</p>
 <p><strong>Estas são cinco erros que mudam a performance e conversão do seu e-commerce.</strong></p>
 <h2>1. Comprar mais tráfego sem entender por que as visitas não convertem</h2>
 <p>Quando as vendas ficam abaixo do esperado, aumentar o tráfego parece o caminho mais rápido. O problema é que mais visitantes também podem significar mais oportunidades desperdiçadas.</p>
