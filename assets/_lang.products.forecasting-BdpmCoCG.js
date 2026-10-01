@@ -1,1 +1,0 @@
-import{c as e}from"./policy-content-ZmISH2oq.js";import{c as t}from"./index-1I8iw-jc.js";import{t as n}from"./product-placeholder-page-D24DbEb_.js";var r=e();function i(){let{signInHref:e}=t.useLoaderData();return(0,r.jsx)(n,{contentId:`forecasting`,name:`Forecasting`,signInHref:e})}export{i as component};
