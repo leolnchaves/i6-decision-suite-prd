@@ -214,19 +214,9 @@ format: html
 <p>A intenção existia, mas a conversão ainda dependia da condição certa. </p>
 <p>No Dia dos Pais, a <a href="https://www.serasaexperian.com.br/sala-de-imprensa/servicos-de-marketing/consumidor-mais-propenso-a-comprar-no-dia-dos-pais-e-3-vezes-mais-sensivel-a-descontos-que-a-media-dos-brasileiros-revela-serasa-experian/" target="_blank" rel="noopener noreferrer">Serasa Experian</a> identificou 11,7 milhões de brasileiros com maior propensão de compra. Desses, 57,8% eram caçadores de descontos — três vezes a média —, embora 26,9% tivessem renda acima de R$ 8 mil.</p>
 <p>Renda e intenção, sozinhas, não revelam qual oferta será mais eficiente.</p>
-<div class="article-table-scroll"><table>
-<thead>
-<tr>
-<th><strong>Coluna 1</strong></th>
-<th><strong>Coluna 2</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Valor 1</strong></td>
-<td>Valor 2</td>
-</tr>
-</tbody></table></div>
-<figure class="article-figure"><img src="/insights-assets/d028024c176c7569.webp" alt="Descrição acessível da imagem" title="Fig. 1 — Texto da legenda exibida ao leitor" loading="lazy"><figcaption class="article-figure-caption"><span class="article-figure-label">FIG. 01</span><span>Fig. 1 — Texto da legenda exibida ao leitor</span></figcaption></figure>
+<p>| Coluna 1 | Coluna 2 | Coluna 3 |<br>| --- | --- |<br>| Valor 1 | Valor 2 | Valor 3 |</p>
+<figure class="article-figure"><img src="/insights-assets/6c77f39f51de8da4.jpg" alt="Descrição acessível da imagem" title="Gaguinho bonitinho" loading="lazy"><figcaption class="article-figure-caption"><span class="article-figure-label">FIG. 01</span><span>Gaguinho bonitinho</span></figcaption></figure>
+<figure class="article-figure"><img src="/insights-assets/d028024c176c7569.webp" alt="Descrição acessível da imagem" title="Texto da legenda exibida ao leitor" loading="lazy"><figcaption class="article-figure-caption"><span class="article-figure-label">FIG. 02</span><span>Texto da legenda exibida ao leitor</span></figcaption></figure>
 <h3>O que os sinais de intenção mudam em cada mercado</h3>
 <p>Em <strong>tecnologia</strong>, uso recorrente, consulta a preços e integrações ou queda de engajamento podem indicar propensão de upgrade, cross-sell ou churn.</p>
 <p>No <strong>mercado financeiro</strong>, simulações, movimentações, afinidades e respostas a campanhas ajudam a identificar quem pode contratar crédito, seguro, investimento ou outro produto — e qual argumento usar.</p>
