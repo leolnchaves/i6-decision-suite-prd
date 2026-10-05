@@ -75,7 +75,7 @@ writer_name: "Teste"
 writer_role: "Teste"
 writer_image_key: "/insights-assets/592ba16d22c0ada5.webp"
 related_product: "i6-builder-platform"
-asset_url: "830d2f61-0ea4-41a6-877b-5cfd57682d39/1791219111038_s41591-026-04431-5.pdf"
+asset_url: "830d2f61-0ea4-41a6-877b-5cfd57682d39/1791221401782_eBook_Planejamento_Preditivo_Orientado_a_Decisao.pdf"
 theme: "propensao-conversao"
 theme_label: "Conversion Propensity"
 read_time: 4
